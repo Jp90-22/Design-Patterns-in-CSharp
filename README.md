@@ -1,6 +1,6 @@
 # Design patterns implemented in C#
 
-This console project is a documentation about some design patterns implemented in C# by me, in a simple way just for learning and refresh my memory when i need it.
+This console project is a documentation about some design patterns implemented in C# by me, in a simple way just for learning and refresh my memory when I need it.
 
 I got this resources from some videos in Youtube and [Refactoring Guru's page](https://refactoring.guru/) (Useful page if you want to learn about Refactoring and Software architecture).
 
